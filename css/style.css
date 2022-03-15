@@ -28,3 +28,17 @@ h1 {
 .capitions {
     font-size: 14px;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #4ea0ff;
+    color: #ffffff;
+    text-align: left;
+}
+
+.row-blue {
+    background-color: #b1e5f2;
+}
