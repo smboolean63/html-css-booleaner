@@ -7,3 +7,20 @@ header {
 #logo {
     height: 70px;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+.author {
+    color: gray;
+}
+
+/* Selettori avanzati */
+.author a {
+    color: #4ea0ff;
+    text-decoration: none;
+}
+.author div {
+    font-size: 18px;
+}
